@@ -17,7 +17,7 @@ body {
 }
 
 .img {
-	padding: 390px;
+	max-width: 390px;
 }
 
 .item {
