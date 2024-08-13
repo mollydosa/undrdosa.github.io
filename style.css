@@ -18,6 +18,7 @@ body {
 
 .img {
 	max-width: 390px;
+	max-length: 600px;
 }
 
 .item {
